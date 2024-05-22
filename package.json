@@ -1,0 +1,14 @@
+{
+  "name": "asincromismo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "victor olivares crowbreaker96@hotmail.com",
+  "license": "MIT",
+  "description": ""
+}
