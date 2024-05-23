@@ -10,5 +10,8 @@
   ],
   "author": "victor olivares crowbreaker96@hotmail.com",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
