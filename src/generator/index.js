@@ -16,4 +16,9 @@ function* iterable(array) {
 }
 
 const it = iterable(['Victor', 'Breaker', 'Crow', 'Toro', 'Isaac'])
-console.log(it.next())
+console.log(it.next().value)
+console.log(it.next().value)
+console.log(it.next().value)
+console.log(it.next().value)
+console.log(it.next().value)
+console.log(it.next().value)
